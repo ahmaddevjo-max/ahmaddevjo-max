@@ -71,5 +71,5 @@ Basic backend system demonstrating CRUD operations and fundamentals
 ## 📫 Contact Me
 
 - 📩 Email: ahmaddev.jo@gmail.com  
-- 💬 Telegram: [@your_username](https://t.me/your_username)  
+- 💬 Telegram: [@your_username]([https://t.me/your_username](https://t.me/ahmadmax100))  
 - 💼 LinkedIn: [Ahmad Al-Trabeen](https://www.linkedin.com/in/ahmad-al-trabeen-941660280/)  
