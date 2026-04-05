@@ -35,7 +35,7 @@ I enjoy solving complex problems and optimizing performance in real-world applic
 - 🌐 **RESTful API Design & Development**  
 - 🔐 Familiar with **authentication & authorization (JWT, ASP.NET Identity)**  
 - 🧪 **Unit Testing (xUnit / NUnit)**  
-- 🐳 Basic knowledge of **Docker**  
+- 🐳 **Docker**  
 - 🧩 Experience with **Dependency Injection**  
 - 📂 **Git & Version Control**  
 
