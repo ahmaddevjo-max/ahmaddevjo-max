@@ -10,7 +10,7 @@
 
 <p>
 🔥 Passionate about building scalable backend systems using .NET <br>
-🎯 Completed advanced backend roadmap <br>
+🎯 Built multiple real-world backend projects following best practices<br>
 💡 Always learning, always building
 </p>
 
@@ -20,9 +20,9 @@
 ---
 
 ## 🧑‍💻 About Me
+I'm a Backend .NET Developer who focuses on writing clean, maintainable code and building scalable systems.
 
-I'm a **Backend Developer specialized in .NET**, passionate about building efficient and scalable systems.  
-I enjoy solving complex problems and optimizing performance in real-world applications.  
+I enjoy breaking down complex problems into simple, efficient solutions, and I care deeply about performance and architecture.
 
 **Technologies & Skills:**
 
