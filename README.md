@@ -52,6 +52,16 @@ I enjoy breaking down complex problems into simple, efficient solutions, and I c
 - 🔹 System Design
 
 ---
+##  Featured Projects
+
+🚀 MechanicShop System
+Full-Stack Workshop Management System (Mini ERP)
+Built a scalable system to manage car repair workshops, including customers, repair tasks, scheduling, invoicing, and dashboard.
+🏗️ Clean Architecture + CQRS
+⚡ Caching, Logging, Rate Limiting
+🐳 Docker & CI/CD
+🧪 Unit & Integration Testing
+🎨 Blazor WebAssembly (Frontend)
 
 ## 📫 Contact Me
 
