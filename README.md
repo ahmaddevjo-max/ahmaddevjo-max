@@ -10,7 +10,7 @@
 
 <p>
 🔥 Passionate about building scalable backend systems using .NET <br>
-🎯 Completed advanced backend roadmap (Course 21) <br>
+🎯 Completed advanced backend roadmap <br>
 💡 Always learning, always building
 </p>
 
