@@ -11,7 +11,8 @@
 <p>
 🔥 Passionate about building scalable backend systems using .NET <br>
 🎯 Built multiple real-world backend projects following best practices<br>
-💡 Always learning, always building
+
+  💡 Always learning, always building
 </p>
 
 
