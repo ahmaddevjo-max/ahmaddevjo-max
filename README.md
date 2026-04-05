@@ -43,7 +43,7 @@ I enjoy solving complex problems, optimizing performance, and turning ideas into
 
 ## 🚀 Projects
 
-### 🔴 MechanicShop System
+### 🔴 MechanicShop System(Future project)
 Full-Stack Workshop Management System 
 - Clean Architecture + CQRS  
 - Caching, Logging, Docker, CI/CD  
