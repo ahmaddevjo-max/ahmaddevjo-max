@@ -44,20 +44,20 @@ I enjoy solving complex problems, optimizing performance, and turning ideas into
 ## 🚀 Projects
 
 ### 🔴 MechanicShop System
-Full-Stack Workshop Management System (Mini ERP)  
+Full-Stack Workshop Management System 
 - Clean Architecture + CQRS  
 - Caching, Logging, Docker, CI/CD  
 - Blazor WebAssembly (Frontend)  
-🔗 Repository: *(add your link here)*
+🔗 Repository: 
 
 ### 🔵 DVLD System
 Driver & Vehicle Licensing Management System  
 - Backend-focused system with business rules & validation  
-🔗 Repository: *(add your link here)*
+🔗 Repository: 
 
 ### 🟢 ADHD Platform
 Basic backend system demonstrating CRUD operations and fundamentals  
-🔗 Repository: *(add your link here)*
+🔗 Repository:
 
 ---
 
