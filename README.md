@@ -19,44 +19,33 @@
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-- 💻 Backend Developer specialized in **.NET**
-- ⚙️ Building scalable APIs & systems using **ASP.NET Core**
-- 🧠 Strong understanding of **OOP, Design Patterns, and Clean Architecture**
-- 🗄️ Working with databases like **SQL Server & Entity Framework**
-- 🔥 Passionate about performance optimization & problem solving
+I'm a **Backend Developer specialized in .NET**, passionate about building efficient and scalable systems.  
+I enjoy solving complex problems and optimizing performance in real-world applications.  
+
+**Technologies & Skills:**
+
+- ⚙️ Building scalable APIs & systems using **ASP.NET Core**  
+- 🧠 Strong understanding of **OOP, Design Patterns, and Clean Architecture**  
+- 🗄️ Working with databases like **SQL Server & Entity Framework**  
+- 🔥 Passionate about **performance optimization & problem solving**  
+- 💻 **WinForms Applications Development**  
+- 🔗 **LINQ & Advanced Querying**  
+- 🌐 **RESTful API Design & Development**  
+- 🔐 Familiar with **authentication & authorization (JWT, ASP.NET Identity)**  
+- 🧪 **Unit Testing (xUnit / NUnit)**  
+- 🐳 Basic knowledge of **Docker**  
+- 🧩 Experience with **Dependency Injection**  
+- 📂 **Git & Version Control**  
+
+**Soft Skills:**
+
+- Problem-solving mindset  
+- Fast learner & self-motivated  
+- Team collaboration  
 
 ---
-
-## 🛠️ Tech Stack
-
-### Backend
-- **C# / .NET 8/9/10**  
-- **ASP.NET Core**  
-- **WinForms** (Desktop Applications)  
-- **RESTful API Design & Development**  
-- **Dependency Injection**  
-- **Unit Testing** (xUnit / NUnit)
-
-### Database
-- **SQL Server**  
-- **Entity Framework / EF Core**  
-- **LINQ & Advanced Querying**
-
-### DevOps & Tools
-- **Git & Version Control**  
-- **Docker** 
-
-### Security
-- **JWT Authentication**  
-- **ASP.NET Identity**
-
-### Other Skills
-- **OOP, Design Patterns, Clean Architecture**  
-- **Performance Optimization & Problem Solving**  
-- **Team Collaboration & Fast Learning**
-
 ## 🧠 Currently Learning
 
 - 🔹 Advanced **ASP.NET Core**
