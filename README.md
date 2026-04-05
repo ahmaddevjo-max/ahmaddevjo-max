@@ -2,11 +2,18 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> 
 <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/>
-<br>
 
-<h1>Hi 👋 I'm Ahmad Fares</h1>
-<h3>Backend Developer | .NET Specialist</h3>
+<h1>Hi 👋, I'm Ahmad Fares</h1>
+<h3>🚀 Backend .NET Developer | Problem Solver | Clean Code Advocate</h3>
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/><br> 
+
+<p>
+🔥 Passionate about building scalable backend systems using .NET <br>
+🎯 Completed advanced backend roadmap (Course 21) <br>
+💡 Always learning, always building
+</p>
+
 
 </div>
 
