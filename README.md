@@ -24,49 +24,43 @@
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Backend
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=flat&logo=dotnet&logoColor=white)
+### Backend
+- **C# / .NET 6/7**  
+- **ASP.NET Core** (API & MVC)  
+- **WinForms** (Desktop Applications)  
+- **RESTful API Design & Development**  
+- **Dependency Injection**  
+- **Unit Testing** (xUnit / NUnit)
 
-### 🗄️ Database
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-68217A?style=flat)
+### Database
+- **SQL Server**  
+- **Entity Framework / EF Core**  
+- **LINQ & Advanced Querying**
 
-### ⚙️ Tools
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
+### DevOps & Tools
+- **Git & Version Control**  
+- **Docker** (Basic knowledge)
 
----
+### Security
+- **JWT Authentication**  
+- **ASP.NET Identity**
+
+### Other Skills
+- **OOP, Design Patterns, Clean Architecture**  
+- **Performance Optimization & Problem Solving**  
+- **Team Collaboration & Fast Learning**
 
 ## 🧠 Currently Learning
 
 - 🔹 Advanced **ASP.NET Core**
-- 🔹 Microservices Architecture
 - 🔹 System Design
 
 ---
 
 ## 📫 Contact Me
 
-- 📩 Email: (حط ايميلك هون)
-- 💬 Telegram: (حط رابطك)
-- 💼 LinkedIn: (إذا عندك)
+- 📩 Email: (ahmaddev.jo@gmail.com)
+- 💬 Telegram: (https://web.telegram.org/k/ )
+- 💼 LinkedIn: (https://www.linkedin.com/in/ahmad-al-trabeen-941660280/ )
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="45%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" width="45%" />
-
-</div>
-
----
-
-## ⚡ Fun Fact
-
-> Debugging is like being the detective in a crime movie where you are also the murderer 😄
