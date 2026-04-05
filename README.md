@@ -1,6 +1,5 @@
 <div align="center" width="50">
 
-
 <br>
 
 <h1>Hi 👋, I'm Ahmad Fares</h1>
@@ -11,33 +10,28 @@
 <p>
 🔥 Passionate about building scalable backend systems using .NET <br>
 🎯 Built multiple real-world backend projects following best practices<br>
-
-  💡 Always learning, always building
+💡 Always learning, always building
 </p>
-
 
 </div>
 
 ---
 
 ## 🧑‍💻 About Me
-I'm a Backend .NET Developer who focuses on writing clean, maintainable code and building scalable systems.
-I enjoy breaking down complex problems into simple, efficient solutions, and I care deeply about performance and architecture.
+I'm a Backend .NET Developer focused on building scalable, maintainable systems using clean architecture principles.  
+I enjoy solving complex problems, optimizing performance, and turning ideas into real-world applications.
 
 **Technologies & Skills:**
 
-- ⚙️ Building scalable APIs & systems using **ASP.NET Core**  
-- 🧠 Strong understanding of **OOP, Design Patterns, and Clean Architecture**  
-- 🗄️ Working with databases like **SQL Server & Entity Framework**  
-- 🔥 Passionate about **performance optimization & problem solving**  
-- 💻 **WinForms Applications Development**  
-- 🔗 **LINQ & Advanced Querying**  
-- 🌐 **RESTful API Design & Development**  
-- 🔐 Familiar with **authentication & authorization (JWT, ASP.NET Identity)**  
-- 🧪 **Unit Testing (xUnit / NUnit)**  
-- 🐳 **Docker**  
-- 🧩 Experience with **Dependency Injection**  
-- 📂 **Git & Version Control**  
+- ⚙️ ASP.NET Core, APIs & scalable backend systems  
+- 🧠 OOP, Design Patterns, Clean Architecture  
+- 🗄️ SQL Server & Entity Framework  
+- 💻 WinForms Development, LINQ & Advanced Querying  
+- 🌐 RESTful API Design & Development  
+- 🔐 JWT & ASP.NET Identity Authentication  
+- 🧪 Unit & Integration Testing  
+- 🐳 Docker & DevOps  
+- 🧩 Dependency Injection & Version Control (Git)
 
 **Soft Skills:**
 
@@ -46,23 +40,36 @@ I enjoy breaking down complex problems into simple, efficient solutions, and I c
 - Team collaboration  
 
 ---
-## 🧠 Currently Learning
 
-- 🔹 Advanced **ASP.NET Core**
-- 🔹 System Design
+## 🚀 Projects
+
+### 🔴 MechanicShop System
+Full-Stack Workshop Management System (Mini ERP)  
+- Clean Architecture + CQRS  
+- Caching, Logging, Docker, CI/CD  
+- Blazor WebAssembly (Frontend)  
+🔗 Repository: *(add your link here)*
+
+### 🔵 DVLD System
+Driver & Vehicle Licensing Management System  
+- Backend-focused system with business rules & validation  
+🔗 Repository: *(add your link here)*
+
+### 🟢 ADHD Platform
+Basic backend system demonstrating CRUD operations and fundamentals  
+🔗 Repository: *(add your link here)*
 
 ---
-## Projects
 
--🚀 MechanicShop System
-Full-Stack Workshop Management System 
--ADHD Platform
--DVLD Full System
+## 🧠 Currently Learning
+
+- 🔹 Advanced **ASP.NET Core**  
+- 🔹 System Design  
+
+---
 
 ## 📫 Contact Me
 
-- 📩 Email: (ahmaddev.jo@gmail.com)
-- 💬 Telegram: (https://web.telegram.org/k/ )
-- 💼 LinkedIn: (https://www.linkedin.com/in/ahmad-al-trabeen-941660280/ )
-
----
+- 📩 Email: ahmaddev.jo@gmail.com  
+- 💬 Telegram: [@your_username](https://t.me/your_username)  
+- 💼 LinkedIn: [Ahmad Al-Trabeen](https://www.linkedin.com/in/ahmad-al-trabeen-941660280/)  
