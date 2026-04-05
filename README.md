@@ -22,7 +22,6 @@
 
 ## 🧑‍💻 About Me
 I'm a Backend .NET Developer who focuses on writing clean, maintainable code and building scalable systems.
-
 I enjoy breaking down complex problems into simple, efficient solutions, and I care deeply about performance and architecture.
 
 **Technologies & Skills:**
