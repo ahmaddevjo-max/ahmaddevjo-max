@@ -32,8 +32,8 @@
 ## 🛠️ Tech Stack
 
 ### Backend
-- **C# / .NET 6/7**  
-- **ASP.NET Core** (API & MVC)  
+- **C# / .NET 8/9/10**  
+- **ASP.NET Core**  
 - **WinForms** (Desktop Applications)  
 - **RESTful API Design & Development**  
 - **Dependency Injection**  
@@ -46,7 +46,7 @@
 
 ### DevOps & Tools
 - **Git & Version Control**  
-- **Docker** (Basic knowledge)
+- **Docker** 
 
 ### Security
 - **JWT Authentication**  
